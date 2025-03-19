@@ -4,7 +4,7 @@ import numpy as np
 import time  # utilizado para checar o framerate
 
 
-class AsimovDetector:
+class HandDetector:
     def __init__(
         self,
         mode: bool = False,
@@ -71,7 +71,7 @@ if __name__ == "__main__":
         print("Erro ao acessar a câmera.")
         exit(1) """
 
-    Detector = AsimovDetector()
+    Detector = HandDetector()
 
     while True:
         _, img = capture.read()
