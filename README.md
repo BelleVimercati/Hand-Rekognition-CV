@@ -2,9 +2,10 @@
 
 Este projeto foi criado com o proposito de ganhar familiaridade com a biblioteca MediaPipe e sua funcionalidades, o foco foi no módulo denominado Hands.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="img/hand_crops" alt="Prints" width="800">
-</div>
+</p>
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -51,9 +52,9 @@ Este projeto foi criado com o proposito de ganhar familiaridade com a biblioteca
 - [x] Rastreamento de Landmarks
 - [x] Posicionamento cartesiano dos pontos de Landmarks
 
-<div style="text-align: center;">
-    <img src="img/hand_landmarks" alt="Landmarks" width="800">
-</div>
+<p align="center">
+    <img src="img/hand_landmarks" alt="Landmarks" width="800px">
+</p>
 
 ## 📜 Notas
 
