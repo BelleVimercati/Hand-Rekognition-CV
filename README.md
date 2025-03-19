@@ -3,7 +3,7 @@
 Este projeto foi criado com o proposito de ganhar familiaridade com a biblioteca MediaPipe e sua funcionalidades, o foco foi no módulo denominado Hands.
 
 <p align="center">
-    <img src="img/hand_crops" alt="Prints" width="800">
+    <img src="./img/hand_crops" alt="Prints" width="800px">
 </p>
 
 
@@ -53,7 +53,7 @@ Este projeto foi criado com o proposito de ganhar familiaridade com a biblioteca
 - [x] Posicionamento cartesiano dos pontos de Landmarks
 
 <p align="center">
-    <img src="img/hand_landmarks" alt="Landmarks" width="800px">
+    <img src="/img/hand_landmarks" alt="Landmarks" width="800px">
 </p>
 
 ## 📜 Notas
